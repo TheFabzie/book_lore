@@ -9,6 +9,6 @@ und verlinkt auf die wichtigsten Themenbereiche.
 
 ## Überblick
 
-- [[charaktere/index|Charaktere]]
-- [[orte/index|Orte]]
-- [[religionen/index|Religionen]]
+- [[charaktere/index.md|Charaktere]]
+- [[orte/index.md|Orte]]
+- [[religionen/index.md|Religionen]]
