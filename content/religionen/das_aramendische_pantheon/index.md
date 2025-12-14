@@ -2,4 +2,4 @@
 
 ## Übersicht
 
-- [[religionen/das_aramendische_pantheon/goetter/index.md|Götter]]
+- [[religionen/das_aramendische_pantheon/goetter/index|Götter]]
