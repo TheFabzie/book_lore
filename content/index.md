@@ -2,8 +2,13 @@
 
 Willkommen in meiner Lore-Sammlung.
 
-## Bereiche
-- [[Charaktere/]]
-- [[Orte/]]
-- [[Religionen]]
-- [[Religionen/]]
+Diese Seite dient als zentraler Einstiegspunkt in die Welt
+und verlinkt auf die wichtigsten Themenbereiche.
+
+---
+
+## Überblick
+
+- [[charaktere|Charaktere]]
+- [[orte|Orte]]
+- [[religionen|Religionen]]
