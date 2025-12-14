@@ -5,3 +5,5 @@ Willkommen in meiner Lore-Sammlung.
 ## Bereiche
 - [[Charaktere/]]
 - [[Orte/]]
+- [[Religionen]]
+- [[Religionen/]]
