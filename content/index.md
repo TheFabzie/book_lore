@@ -12,3 +12,4 @@ und verlinkt auf die wichtigsten Themenbereiche.
 - [[charaktere/index|Charaktere]]
 - [[orte/index|Orte]]
 - [[religionen/index|Religionen]]
+- [[regionen/index|Regionen]]
