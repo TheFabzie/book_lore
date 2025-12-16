@@ -13,4 +13,4 @@
 
 ## Nutzen
 
-Zefin wird hauptsächlich zum Prägen von den [[sonstiges/waehrungen/zefin|Zefin]]-Münzen genutzt
+Zefin wird ausschließlich zum Prägen von den [[sonstiges/waehrungen/zefin|Zefin]]-Münzen genutzt. Alle Mienen und Verarbeitungstätten unterstehen dem [[regionen/ereen/cazarad/der_rat_von_cazarad|Rat von Cazarad]].
