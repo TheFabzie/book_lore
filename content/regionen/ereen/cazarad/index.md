@@ -4,7 +4,9 @@
 
 Beeinflusst von der Quelle der Dunkelheit (siehe: Quellen der Magie) breitete sich auf dem südlichen Spitze des Kontinents [[regionen/ereen/index|Ereen]] die ödnis aus. Aufgrund Zahlreicher Bodenschätze, wie z.B. Zefin oder Arrakas wurde das Interesse an der besiedlung geweckt. 
 
-Das Rich endet im Norden an den XXX-Bergen. Das Tor des Riesen bildet
+Das Rich endet im Norden an den XXX-Bergen. Das [[regionen/ereen/cazarad/das_tor_des_riesen|Tor des Riesen]] bildet.
+
+Die offizielle Wäreung in Carazrad ist der [[sonstiges/waehrungen/zefin|Zefin]].
 
 ## Namensherkunft
 
