@@ -13,3 +13,5 @@ und verlinkt auf die wichtigsten Themenbereiche.
 - [[orte/index|Orte]]
 - [[religionen/index|Religionen]]
 - [[regionen/index|Regionen]]
+- [[magie/index|Magie]]
+- [[sonstiges/index|Sonstiges]]
