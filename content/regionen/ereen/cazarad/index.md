@@ -19,10 +19,9 @@ Es bedeutet also: Das Reich des Caz. Denn ohne den Fluss und den Handel der übe
 
 ## Karte
 
-![Karte von Cazarad 1](../../../assets/images/cazarad_map.png)
-![Karte von Cazarad 2](/book_lore/assets/images/cazarad_map.png)
-![Karte von Cazarad 3](../../../../assets/images/cazarad_map.png)
-![Karte von Cazarad 4](/assets/images/cazarad_map.png)
+![Karte von Cazarad](/assets/images/cazarad_map.png)
+
+*Karte von Cazarad*
 
 
 
