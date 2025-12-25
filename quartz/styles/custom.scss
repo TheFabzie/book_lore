@@ -5,3 +5,16 @@
 .page-listing {
   display: none;
 }
+
+@use "./base.scss";
+
+/* Versteckt "X items under this folder" + index-Listen */
+.folder-contents {
+  display: none;
+}
+
+
+/* Nur für Ordner-Indexseiten (…/index): automatische Listing-Sektion ausblenden */
+body[data-slug$="/index"] .page-listing {
+  display: none;
+}
