@@ -2,6 +2,6 @@
 
 ## Übersicht
 
-Das Zeitalter der Götter beschreibt die Anfänge Menschlicher Zivilisation auf Ereen
+Das Zeitalter der Götter beschreibt die Anfänge menschlicher Zivilisation auf Ereen
 
 ## Zeitstrahl
