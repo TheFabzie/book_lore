@@ -10,6 +10,7 @@ und verlinkt auf die wichtigsten Themenbereiche.
 ## Überblick
 
 - [[charaktere/index|Charaktere]]
+- [[geschichte/index|Geschichte]]
 - [[orte/index|Orte]]
 - [[religionen/index|Religionen]]
 - [[regionen/index|Regionen]]
