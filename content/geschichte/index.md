@@ -4,7 +4,7 @@ Zur Überscihtlichkeit ist die Geschichte von Aetharis auf die Verschiedenen Kon
 
 ## Überblick
 
-- [geschichte/g_ereen/index|Die Geschichte von Ereen]
+- [[geschichte/g_ereen/index|Die Geschichte von Ereen]]
 
 ## Die Zeiteinteilung
 

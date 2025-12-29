@@ -1,5 +1,5 @@
 # Orte
 
 ## Überblick
-- [orte/burgen/index|Burgen]
-- [orte/staedte/index|Städte]
+- [[orte/burgen/index|Burgen]]
+- [[orte/staedte/index|Städte]]
