@@ -4,3 +4,4 @@ Hier ist alles vermerkt und beschrieben, was sich keinem bestimmten Thema zuordn
 
 - [[sonstiges/waehrungen/index|Währungen]]
 - [[sonstiges/materialien/index|Materialien]]
+- [[sonstiges/bandenindex|Banden]]
