@@ -5,7 +5,7 @@ Aelwyn ist eine vergleichsweise Große Stadt an der südöstlichen Küste des K�
 ## Übersicht
 
 - **Einwohner:** 120.000
-- **Lehen:** Haus Connen
+- **Lehen:** [[charaktere/familien/connen|Haus Connen]]
 
 ## Geschichte
 
