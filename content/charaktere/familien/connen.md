@@ -7,6 +7,8 @@ Familie aus Arden
 ```mermaid
 
 flowchart TB
+  linkStyle default interpolate linear
+
   harold_connen["✝ Harold Connen<br/>(535-601)"]
   maria_connen["✝ Maria Connen<br/>(541-598)"]
   e1((⚭))
@@ -38,6 +40,7 @@ flowchart TB
   click caroline_connen "/charaktere/caroline-connen"
   click cathrine_markant "/charaktere/cathrine-markant"
   click pascal_connen "/charaktere/pascal-connen"
+
 
 
 ```
