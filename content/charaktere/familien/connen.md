@@ -6,44 +6,16 @@ Familie aus Arden
 
 ```mermaid
 graph TD
-%% =====================================
-%%  HAUS / FAMILIE: Connen
-%% =====================================
-
-%% ---------- Generation I ----------
 subgraph Gen1["Generation I"]
-  harold_connen["✝ Harold Connen<br/>(535–601)"]
-  maria_connen["✝ Maria Connen<br/>(541–598)"]
+  harold_connen["Harold Connen<br/>(535-601)"]
+  maria_connen["Maria Connen<br/>(541-598)"]
 end
 
-harold_connen --- e1((⚭)) --- maria_connen
+harold_connen --- e1((Ehe)) --- maria_connen
+e1 --> richard_connen["Richard Connen<br/>(567-)"]
 
-%% ---------- Generation II ----------
-subgraph Gen2["Generation II"]
-  richard_connen["⭐ Richard Connen<br/>(567–)"]
-  elizah_connen["Elizah Connen<br/>(569–)"]
-  caroline_connen["Caroline Connen<br/>(574–)"]
-  cathrine_markant["Cathrine Markant<br/>(571–)"]
-end
-
-e1 --> richard_connen
-e1 --> elizah_connen
-e1 --> caroline_connen
-
-%% ---------- Generation III ----------
-subgraph Gen3["Generation III"]
-  pascal_connen["Pascal Connen<br/>(596–)"]
-end
-
-richard_connen --- e2((⚭)) --- cathrine_markant
-e2 --> pascal_connen
-
-%% ---------- Klickbare Links ----------
 click harold_connen "/charaktere/harold-connen"
 click maria_connen "/charaktere/maria-connen"
 click richard_connen "/charaktere/richard-connen"
-click elizah_connen "/charaktere/elizah-connen"
-click caroline_connen "/charaktere/caroline-connen"
-click cathrine_markant "/charaktere/cathrine-markant"
-click pascal_connen "/charaktere/pascal-connen"
+
 ```
