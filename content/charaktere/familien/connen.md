@@ -6,46 +6,33 @@ Familie aus Arden
 
 ```mermaid
 
+%%{init: {"flowchart": {"nodeSpacing": 55, "rankSpacing": 80}} }%%
 flowchart TB
-gen1["Generation I"]
-gen2["Generation II"]
 
-subgraph Gen1
-direction LR
-  harold_connen["Harold Connen<br/>(535-601)"]
-  e1((Ehe))
-  maria_connen["Maria Connen<br/>(541-598)"]
-  harold_connen --- e1
-  e1 --- maria_connen
-end
+harold_connen["✝ Harold Connen<br/>(535–601)"]
+maria_connen["✝ Maria Connen<br/>(541–598)"]
+e1((⚭))
 
-gen1 -.-> harold_connen
-gen1 -.-> maria_connen
+harold_connen --- e1
+maria_connen  --- e1
 
-e1 --> richard_connen["Richard Connen<br/>(567-)"]
-e1 --> elizah_connen["Elizah Connen<br/>(569-)"]
-e1 --> caroline_connen["Caroline Connen<br/>(574-)"]
+richard_connen["⭐ Richard Connen<br/>(567–)"]
+elizah_connen["Elizah Connen<br/>(569–)"]
+caroline_connen["Caroline Connen<br/>(574–)"]
 
-subgraph Gen2
-direction LR
-  richard_connen
-  e2((Ehe))
-  cathrine_markant["Cathrine Markant<br/>(571-)"]
-  elizah_connen
-  caroline_connen
-  richard_connen --- e2
-  e2 --- cathrine_markant
-end
+e1 --> richard_connen
+e1 --> elizah_connen
+e1 --> caroline_connen
 
-gen2 -.-> richard_connen
-gen2 -.-> elizah_connen
-gen2 -.-> caroline_connen
-gen2 -.-> cathrine_markant
+cathrine_markant["Cathrine Markant<br/>(571–)"]
+e2((⚭))
 
-e2 --> pascal_connen["Pascal Connen<br/>(596-)"]
+richard_connen --- e2
+cathrine_markant --- e2
 
+pascal_connen["Pascal Connen<br/>(596–)"]
+e2 --> pascal_connen
 
-%% Klickbare Links
 click harold_connen "/charaktere/harold-connen"
 click maria_connen "/charaktere/maria-connen"
 click richard_connen "/charaktere/richard-connen"
