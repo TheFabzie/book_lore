@@ -4,45 +4,46 @@ Familie aus Arden
 
 ## Stammbaum
 
+```mermaid
 graph TD
 %% =====================================
-%%  HAUS / FAMILIE: <Connen>
+%%  HAUS / FAMILIE: Connen
 %% =====================================
 
 %% ---------- Generation I ----------
 subgraph Gen1["Generation I"]
-  harold-connen["✝ Harold Connen<br/>(535–601)"]
-  maria-connen["✝ Maria Connen<br/>(541–598)"]
+  harold_connen["✝ Harold Connen<br/>(535–601)"]
+  maria_connen["✝ Maria Connen<br/>(541–598)"]
 end
 
-harold-connen --- e1((⚭)) --- maria-connen
+harold_connen --- e1((⚭)) --- maria_connen
 
 %% ---------- Generation II ----------
 subgraph Gen2["Generation II"]
-  richard-connen["* Richard Connen<br/>(567–)"]
-  elizah-connen["Elizah Connen<br/>(569–)"]
-  caroline-connen["Caroline Connen<br/>(574–)"]
-  cathrine-markant["Cathrine Markant<br/>(571–)"]
+  richard_connen["⭐ Richard Connen<br/>(567–)"]
+  elizah_connen["Elizah Connen<br/>(569–)"]
+  caroline_connen["Caroline Connen<br/>(574–)"]
+  cathrine_markant["Cathrine Markant<br/>(571–)"]
 end
 
-e1 --> richard-connen
-e1 --> elizah-connen
-e1 --> caroline-connen
-
+e1 --> richard_connen
+e1 --> elizah_connen
+e1 --> caroline_connen
 
 %% ---------- Generation III ----------
 subgraph Gen3["Generation III"]
-  pascal-connen["Pascal Connen<br/>(596–)"]
+  pascal_connen["Pascal Connen<br/>(596–)"]
 end
 
-richard-connen --- e2((⚭)) --- cathrine-markant
-e2 --> pascal-connen
+richard_connen --- e2((⚭)) --- cathrine_markant
+e2 --> pascal_connen
 
 %% ---------- Klickbare Links ----------
-click harold-connen "/charaktere/harold-connen"
-click maria-connen "/charaktere/maria-connen"
-click richard-connen "/charaktere/richard-connen"
-click elizah-connen "/charaktere/elizah-connen"
-click caroline-connen "/charaktere/caroline-connen"
-click cathrine-markant "/charaktere/cathrine-markant"
-click pascal-connen "/charaktere/pascal-connen"
+click harold_connen "/charaktere/harold-connen"
+click maria_connen "/charaktere/maria-connen"
+click richard_connen "/charaktere/richard-connen"
+click elizah_connen "/charaktere/elizah-connen"
+click caroline_connen "/charaktere/caroline-connen"
+click cathrine_markant "/charaktere/cathrine-markant"
+click pascal_connen "/charaktere/pascal-connen"
+```
