@@ -8,8 +8,11 @@ Familie aus Arden
 
 flowchart TB
 
+gen1["Generation I"]
+gen2["Generation II"]
+
 %% ===== Generation I (eine Zeile) =====
-subgraph Gen1["Generation I"]
+subgraph Gen1
 direction LR
   harold_connen["✝ Harold Connen<br/>(535–601)"]
   e1((⚭))
@@ -19,13 +22,17 @@ direction LR
   e1 --- maria_connen
 end
 
+%% Generation-I-Label nur zur Optik (unsichtbare Verbindung)
+gen1 -.-> harold_connen
+gen1 -.-> maria_connen
+
 %% Kinder aus Ehe 1
 e1 --> richard_connen["⭐ Richard Connen<br/>(567–)"]
 e1 --> elizah_connen["Elizah Connen<br/>(569–)"]
 e1 --> caroline_connen["Caroline Connen<br/>(574–)"]
 
 %% ===== Generation II (eine Zeile) =====
-subgraph Gen2["Generation II"]
+subgraph Gen2
 direction LR
   richard_connen
   e2((⚭))
@@ -36,6 +43,12 @@ direction LR
   richard_connen --- e2
   e2 --- cathrine_markant
 end
+
+%% Generation-II-Label nur zur Optik
+gen2 -.-> richard_connen
+gen2 -.-> elizah_connen
+gen2 -.-> caroline_connen
+gen2 -.-> cathrine_markant
 
 %% Kind aus Ehe 2
 e2 --> pascal_connen["Pascal Connen<br/>(596–)"]
