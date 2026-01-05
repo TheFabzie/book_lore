@@ -33,7 +33,7 @@ cathrine_markant --- e2
 pascal_connen["Pascal Connen<br/>(596–)"]
 e2 --> pascal_connen
 
-click harold_connen "../harold-connen"
+click harold_connen "/charaktere/harold-connen/"
 click maria_connen "../maria-connen"
 click richard_connen "../richard-connen"
 click elizah_connen "../elizah-connen"
