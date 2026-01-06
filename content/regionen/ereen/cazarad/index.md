@@ -19,7 +19,7 @@ Es bedeutet also: Das Reich des Caz. Denn ohne den Fluss und den Handel der übe
 
 ## Karte
 
-![Karte von Cazarad](/assets/images/cazarad_map.png)
+[![Karte von Cazarad](/assets/images/cazarad_map.png)](/assets/images/cazarad_map.png)
 
 *Karte von Cazarad*
 
